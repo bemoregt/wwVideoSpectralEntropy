@@ -8,6 +8,7 @@ Spectral Entropy from Video File using oepnframeworks
 
 ### Algorithm
 - Spectarl Entropy: Uniformity of Spatial Frequency of Image.
+- It used for Texture segmentation, feature extraction, peirodicity measure, etc.
 
 ### Dependency
 - OpenFrameworks 0.10.1
