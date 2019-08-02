@@ -1,4 +1,4 @@
-# ofxVideoSpectralEntropy
+# wwVideoSpectralEntropy
 Spectral Entropy from Video File using oepnframeworks
 
 ![SN example]( https://github.com/bemoregt/ofxVideoSpectralEntropy/blob/master/aa.png "exmaple")
